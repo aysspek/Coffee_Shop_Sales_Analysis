@@ -16,24 +16,9 @@ Farklı lokasyonları bulunab bir kahve dükkanının satış analizi: Üç fark
 5. Aykırı Değer Analizi (Outliers)
 6. Feature Engineering
 
-## Kurulumu
-1. Depoyu Klonlayın
-[git clone (https://github.com/aysspek/Coffee-Shop-Sales.git)](https://github.com/aysspek/Coffee-Shop-Sales.git)
-2. PyInstaller
- 
- 'Usually these files are written by a python script from a template
- before PyInstaller builds the exe, so as to inject date/other infos into it.'
- 
-* .manifest
-* .spec
-  
-3. Installer logs
-* pip-log.txt
-* pip-delete-this-directory.txt
+### Depo URL
+git clone [https://github.com/aysspek/Coffee_Shop_Sales_Analysis.git]
 
-5. Gerekli Yüklemeler
-* pip install python
-* pip install numpy
 
 ### Kaggle Link
 https://www.kaggle.com/code/ayepek/coffee-shop-sales-analysis
